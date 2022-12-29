@@ -27,7 +27,7 @@ Here's a few information about me:
 - NodeJS: ⭐⭐
 - ReactJS: ⭐
 
-[![Huynh Tuan Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsLouisAnderson&theme=algolia)](https://github.com/ItsLouisAnderson/github-readme-stats)
+[![Huynh Tuan Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsLouisAnderson&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ItsLouisAnderson/ItsLouisAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
